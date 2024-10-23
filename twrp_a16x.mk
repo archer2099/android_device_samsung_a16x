@@ -6,7 +6,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := b6q
+PRODUCT_RELEASE_NAME := a16x
 
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
